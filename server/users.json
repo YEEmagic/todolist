@@ -1,0 +1,34 @@
+[
+  {
+    "username": "asdf",
+    "password": "1234",
+    "todos": [
+      {
+        "id": 2,
+        "text": "운동하기",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "text": "소분설 회의하기",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "text": "과제 제출하기",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "username": "dsu",
+    "password": "1234",
+    "todos": [
+      {
+        "id": 1,
+        "text": "상품 주문하기",
+        "completed": false
+      }
+    ]
+  }
+]
